@@ -1,0 +1,25 @@
+pane	reactjs-book	1	:zsh	0	:-	1	:/Users/hojberg/code/reactjs-book	1	zsh	:
+pane	reactjs-book	2	:Vim	1	:*	1	:/Users/hojberg/code/bleeding-edge-sample-app	1	Vim	:/usr/local/Cellar/macvim/7.3-66/MacVim.app/Contents/MacOS/Vim .
+pane	swipely	1	:servers	0	: 	1	:/Users/hojberg/code/swipely/swipely	1	ruby	:/Users/hojberg/.rbenv/versions/2.0.0-p353/bin/ruby script/rails s
+pane	swipely	1	:servers	0	: 	2	:/Users/hojberg/code/swipely/partners_ui	0	node	:npm Apple_PubSub_Socket_Render=/tmp/launch-1gSU9Z/Render DISPLAY=/tmp/launch-9Oe4PC/org.macosforge.xquartz:0
+npm Apple_PubSub_Socket_Render=/tmp/launch-1gSU9Z/Render DISPLAY=/tmp/launch-9Oe4PC/org.macosforge.xquartz:0
+pane	swipely	2	:letterhead	0	: 	1	:/Users/hojberg/code/swipely/letterhead	1	zsh	:
+pane	swipely	3	:partners_ui	0	:-	1	:/Users/hojberg/code/swipely/partners_ui	1	Vim	:/usr/local/Cellar/macvim/7.3-66/MacVim.app/Contents/MacOS/Vim .
+pane	swipely	3	:partners_ui	0	:-	2	:/Users/hojberg/code/swipely/partners_ui	0	zsh	:
+pane	swipely	4	:Vim	0	: 	1	:/Users/hojberg/code/swipely/swipely	1	Vim	:/usr/local/Cellar/macvim/7.3-66/MacVim.app/Contents/MacOS/Vim .
+pane	swipely	5	:Vim	1	:*	1	:/Users/hojberg	1	Vim	:/usr/local/Cellar/macvim/7.3-66/MacVim.app/Contents/MacOS/Vim segfault.js
+pane	talentbird	1	:servers	1	:*	1	:/Users/hojberg/code/talentbird/api	0	ruby	:ruby /Users/hojberg/.rbenv/versions/2.0.0-p353/bin/rackup
+pane	talentbird	1	:servers	1	:*	2	:/Users/hojberg/code/talentbird/ui	1	node	:npm Apple_PubSub_Socket_Render=/tmp/launch-1gSU9Z/Render DISPLAY=/tmp/launch-9Oe4PC/org.macosforge.xquartz:0
+pane	talentbird	2	:Vim	0	:-	1	:/Users/hojberg/code/talentbird/ui	1	Vim	:/usr/local/Cellar/macvim/7.3-66/MacVim.app/Contents/MacOS/Vim .
+pane	tools	1	:Vim	1	:*	1	:/Users/hojberg/.vim	1	zsh	:
+window	reactjs-book	1	0	:-	c95e,272x66,0,0,1
+window	reactjs-book	2	1	:*	e4e9,272x66,0,0,49
+window	swipely	1	0	: 	7741,204x55,0,0{102x55,0,0,2,101x55,103,0,3}
+window	swipely	2	0	: 	6188,204x55,0,0,38
+window	swipely	3	0	:-	7709,204x55,0,0{102x55,0,0,42,101x55,103,0,45}
+window	swipely	4	0	: 	e188,204x55,0,0,48
+window	swipely	5	1	:*	6181,204x55,0,0,50
+window	talentbird	1	1	:*	f707,204x55,0,0{102x55,0,0,51,101x55,103,0,52}
+window	talentbird	2	0	:-	6184,204x55,0,0,53
+window	tools	1	1	:*	c965,272x66,0,0,8
+state	talentbird	swipely

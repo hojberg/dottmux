@@ -1,0 +1,8 @@
+pane	reactjs-book	1	:zsh	1	:*	1	:/Users/hojberg/code/reactjs-book	1	zsh	:
+pane	swipely	1	:servers	0	:-	1	:/Users/hojberg/code/swipely/swipely	1	ruby	:/Users/hojberg/.rbenv/versions/2.0.0-p353/bin/ruby script/rails s
+pane	swipely	1	:servers	0	:-	2	:/Users/hojberg/code/swipely/partners_ui	0	node	:npm Apple_PubSub_Socket_Render=/tmp/launch-ck7M6Z/Render DISPLAY=/tmp/launch-xCPEKh/org.macosforge.xquartz:0
+pane	swipely	2	:zsh	1	:*	1	:/Users/hojberg/code/swipely/partners_ui	1	zsh	:
+window	reactjs-book	1	1	:*	c55d,238x55,0,0,0
+window	swipely	1	0	:-	4378,238x55,0,0{119x55,0,0,1,118x55,120,0,2}
+window	swipely	2	1	:*	c562,238x55,0,0,5
+state	swipely	swipely

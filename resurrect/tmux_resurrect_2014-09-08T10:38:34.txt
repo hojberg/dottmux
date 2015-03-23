@@ -1,0 +1,17 @@
+pane	0	1	:zsh	1	:*	1	:/Users/hojberg	1	zsh	:
+pane	reactjs-book	1	:zsh	1	:*	1	:/Users/hojberg/code/reactjs-book	1	zsh	:
+pane	swipely	1	:servers	0	:-	1	:/Users/hojberg/code/swipely/swipely	0	ruby	:/Users/hojberg/.rbenv/versions/2.0.0-p353/bin/ruby script/rails s
+pane	swipely	1	:servers	0	:-	2	:/Users/hojberg/code/swipely/partners_ui	1	zsh	:npm Apple_PubSub_Socket_Render=/tmp/launch-1gSU9Z/Render DISPLAY=/tmp/launch-9Oe4PC/org.macosforge.xquartz:0
+pane	swipely	2	:partners_ui	1	:*	1	:/Users/hojberg/code/swipely/partners_ui	1	Vim	:/usr/local/Cellar/macvim/7.3-66/MacVim.app/Contents/MacOS/Vim .
+pane	swipely	2	:partners_ui	1	:*	2	:/Users/hojberg/code/swipely/partners_ui	0	zsh	:
+pane	swipely	3	:letterhead	0	: 	1	:/Users/hojberg/code/swipely/letterhead	1	zsh	:
+pane	swipely	4	:lettercarrier	0	: 	1	:/Users/hojberg/code/swipely/lettercarrier	1	zsh	:
+pane	tools	1	:Vim	1	:*	1	:/Users/hojberg/.vim	1	zsh	:
+window	0	1	1	:*	b53d,172x42,0,0,0
+window	reactjs-book	1	1	:*	c83e,178x46,0,0,1
+window	swipely	1	0	:-	c379,238x55,0,0{119x55,0,0,2,118x55,120,0,3}
+window	swipely	2	1	:*	f495,238x55,0,0[238x43,0,0,4,238x11,0,44,9]
+window	swipely	3	0	: 	c563,238x55,0,0,6
+window	swipely	4	0	: 	c564,238x55,0,0,7
+window	tools	1	1	:*	b545,172x42,0,0,8
+state	swipely	swipely

@@ -1,0 +1,15 @@
+pane	4	1	:zsh	1	:*	1	:/Users/hojberg/code/swipely/letterhead	1	zsh	:
+pane	4	2	:zsh	0	:-	1	:/	1	zsh	:
+pane	reactjs-book	1	:zsh	1	:*	1	:/Users/hojberg/code/reactjs-book	1	zsh	:
+pane	swipely	1	:servers	0	:-	1	:/Users/hojberg/code/swipely/swipely	1	zsh	:
+pane	swipely	1	:servers	0	:-	2	:/Users/hojberg/code/swipely/partners_ui	0	node	:npm Apple_PubSub_Socket_Render=/tmp/launch-1gSU9Z/Render DISPLAY=/tmp/launch-9Oe4PC/org.macosforge.xquartz:0
+npm Apple_PubSub_Socket_Render=/tmp/launch-1gSU9Z/Render DISPLAY=/tmp/launch-9Oe4PC/org.macosforge.xquartz:0
+pane	swipely	2	:partners_ui	1	:*	1	:/Users/hojberg/code/swipely/partners_ui	1	zsh	:
+pane	tools	1	:Vim	1	:*	1	:/Users/hojberg/.vim	1	zsh	:
+window	4	1	1	:*	5ad5,172x42,0,0,16
+window	4	2	0	:-	5ad7,172x42,0,0,18
+window	reactjs-book	1	1	:*	c55e,238x55,0,0,1
+window	swipely	1	0	:-	b754,178x46,0,0{89x46,0,0,2,88x46,90,0,3}
+window	swipely	2	1	:*	e451,178x46,0,0,22
+window	tools	1	1	:*	c845,178x46,0,0,8
+state	tools	swipely

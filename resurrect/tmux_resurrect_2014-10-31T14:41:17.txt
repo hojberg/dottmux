@@ -1,0 +1,29 @@
+pane	reactjs-book	1	:zsh	1	:*	1	:/Users/hojberg/code/reactjs-book	1	zsh	:
+pane	reactjs-book	2	:Vim	0	:-	1	:/Users/hojberg/code/bleeding-edge-sample-app	1	zsh	:
+pane	swipely	1	:servers	0	: 	1	:/Users/hojberg/code/swipely/swipely	0	zsh	:
+pane	swipely	1	:servers	0	: 	2	:/Users/hojberg/code/swipely/partners_ui	1	zsh	:
+pane	swipely	2	:letterhead	1	:*	1	:/Users/hojberg/code/swipely/letterhead	0	zsh	:
+pane	swipely	2	:letterhead	1	:*	2	:/Users/hojberg/code/swipely/letterhead	1	zsh	:
+pane	swipely	3	:Aviator	0	: 	1	:/Users/hojberg/code/swipely/aviator	1	zsh	:
+pane	swipely	4	:partners_ui	0	:-	1	:/Users/hojberg/code/swipely/partners_ui/src	1	zsh	:
+pane	swipely	5	:zsh	0	: 	1	:/Users/hojberg/code/swipely/state-trooper	1	zsh	:
+pane	talentbird	1	:servers	0	:-	1	:/Users/hojberg/code/talentbird/api	1	zsh	:
+pane	talentbird	1	:servers	0	:-	2	:/Users/hojberg/code/talentbird/ui	0	zsh	:
+pane	talentbird	2	:ui	1	:*	1	:/Users/hojberg/code/talentbird/ui	1	zsh	:
+pane	talentbird	2	:ui	1	:*	2	:/Users/hojberg/code/talentbird/ui	0	zsh	:
+pane	talentbird	3	:psql	0	: 	1	:/Users/hojberg/code/talentbird/ui	1	zsh	:
+pane	talentbird	4	:api	0	: 	1	:/Users/hojberg/code/talentbird/api	1	zsh	:
+pane	tools	1	:Vim	1	:*	1	:/Users/hojberg/.vim	1	zsh	:
+window	reactjs-book	1	1	:*	af3e,172x50,0,0,1
+window	reactjs-book	2	0	:-	af3f,172x50,0,0,2
+window	swipely	1	0	: 	f742,204x55,0,0{102x55,0,0,3,101x55,103,0,4}
+window	swipely	2	1	:*	9b0a,204x55,0,0[204x43,0,0,16,204x11,0,44,18]
+window	swipely	3	0	: 	c2a3,204x55,0,0,6
+window	swipely	4	0	:-	c2a4,204x55,0,0,7
+window	swipely	5	0	: 	c2a5,204x55,0,0,8
+window	talentbird	1	0	:-	c411,172x50,0,0{86x50,0,0,9,85x50,87,0,10}
+window	talentbird	2	1	:*	7065,172x50,0,0[172x34,0,0,11,172x15,0,35,12]
+window	talentbird	3	0	: 	57d2,172x50,0,0,13
+window	talentbird	4	0	: 	57d3,172x50,0,0,14
+window	tools	1	1	:*	57d4,172x50,0,0,15
+state	swipely	swipely
